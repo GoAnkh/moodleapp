@@ -6,7 +6,7 @@
         versionCode = "38010"
         android-versionCode = "38010"
         ios-CFBundleVersion = "3.8.1.0"
-        version   = "3.8.0">
+        version   = "3.8.1">
     <name>Moodle</name>
 
     <description>
